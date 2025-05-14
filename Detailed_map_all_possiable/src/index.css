@@ -1,0 +1,16 @@
+.present{
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
+}
+
+
+.sp{
+  color: rgb(6, 225, 203);
+  border-radius: 50%;
+  text-align: center;
+  border: solid black 0.2px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
