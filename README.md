@@ -12,6 +12,16 @@ Step:3
 
 #Step for Custom_Pointer_&_deatiled_street Folder ----->
 
+
+            Step:1 
+                  Download zip file from Github
+            
+            Step:2 
+                  Unzip file in PC
+            
+            Step:3 
+                  Open index.html
+
 #Step for Detailed_map_all_possiable Folder ----->
                   
             
@@ -41,6 +51,20 @@ Step:3
                    npm install
                    npm start
                    ```
+
+#Step for Top_rating_schl_hotel_etc_ Folder ----->
+
+
+            Step:1 
+                  Download zip file from Github
+            
+            Step:2 
+                  Unzip file in PC
+            
+            Step:3 
+                  Open index.html
+
+                   
             
 
 
