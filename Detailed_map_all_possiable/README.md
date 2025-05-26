@@ -10,13 +10,9 @@
 6. Directions Service
 7. Directions Renderer on map
 
-## Youtube tutorial
-
-[https://youtu.be/iP3DnhCUIsE](https://youtu.be/iP3DnhCUIsE)
 
 ## Starting the app
 
-Create an API in the google developers console [https://console.developers.google.com](https://console.developers.google.com), make sure to enable billing for the google project, otherwise you may get a warning as _development purposes only_.
 
 Add a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here`
 
@@ -34,10 +30,3 @@ npm install
 npm start
 ```
 
-## Author
-
-- [**Truly Mittal**](https://trulymittal.com)
-
-## Contribute
-
-You can fork this repo and send me a PR.
