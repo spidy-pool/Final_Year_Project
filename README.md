@@ -52,7 +52,7 @@ Step:3
                    npm start
                    ```
 
-#Step for Top_rating_schl_hotel_etc_ Folder ----->
+#Step for Top_rating_schl_hotel_etc_feedback Folder ----->
 
 
             Step:1 
