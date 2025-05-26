@@ -14,20 +14,30 @@
 
 ## Starting the app
 
+Step:1  
+      Download code zip file from github.
 
-Add a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here`
+Step:2 
+      Unzip code file.
 
-In the project directory, you can run:
+Step:3
+      Navigate to "Detailed_map_all_possiable" 
 
-```
-yarn install
-yarn start
-```
+Step:4 
+      Add a `.env` file or `.env.local` in the project root and specify your API key as `REACT_APP_GOOGLE_MAPS_API_KEY=your_api_key_here`
 
-OR using npm
+Step:5
+       you can run:
 
-```
-npm install
-npm start
-```
+       ```
+       yarn install
+       yarn start
+       ```
+
+       OR using npm
+
+       ```
+       npm install
+       npm start
+       ```
 
